@@ -10,6 +10,10 @@
 Before running the web application, create a database, create and apply migrations, install the necessary packages from the pyproject.toml file and populate the .env file with .env.example. To run, use the command "python manage.py runserver".
 
 
+## Docker 
+Create Docker images and containers using commands: "docker-compose build" and "docker-compose up".
+
+
 ## Project structure
 
 config/
