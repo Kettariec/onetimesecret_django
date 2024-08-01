@@ -45,9 +45,17 @@ static/
         directory with js files
     logo.png - project logo
 
-env.example - example of filling environment variables.  
-manage.py - web application entry point.  
-pyproject.toml - requirements for the project.  
+.gitignore - Git file.
+
+Dockerfile <br>
+docker-compose.yaml - Docker files.
+
+env.example - example of filling environment variables.
+
+manage.py - web application entry point.
+
+pyproject.toml - requirements for the project.
+
 poetry.lock - poetry file.
 
 
