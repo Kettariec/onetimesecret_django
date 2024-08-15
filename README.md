@@ -67,6 +67,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 kettariec@gmail.com
 
-https://github.com/Kettariec/one_time_secret
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+https://github.com/Kettariec/onetimesecret_django
