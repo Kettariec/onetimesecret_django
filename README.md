@@ -59,10 +59,6 @@ pyproject.toml - requirements for the project.
 poetry.lock - poetry file.
 
 
-<!-- LICENSE -->
-## License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 <!-- CONTACT -->
 ## Contact
 kettariec@gmail.com
